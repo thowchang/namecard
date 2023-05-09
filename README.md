@@ -1,10 +1,6 @@
 # My name card 
 
-My digital name card: [https://hkpeterpeter.github.io/my-name-card/](https://hkpeterpeter.github.io/my-name-card/)
-
-## Codepen demo
-
-CodePen: [https://codepen.io/hkpeterpeter/pen/zYoxrPo](https://codepen.io/hkpeterpeter/pen/zYoxrPo)
+My digital name card: [https://github.com/thowchang/namecard/](https://github.com/thowchang/namecard/)
 
 ## Demo on a mobile phone
 
